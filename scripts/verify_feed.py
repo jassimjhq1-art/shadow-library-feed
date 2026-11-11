@@ -30,6 +30,10 @@ for b in data["books"]:
     for c in chapters:
         assert isinstance(c,dict), "chapter must be object"
         assert is_https(c.get("audio")), "audio must use https"
+        parts=c.get("audioParts")
+        if parts is not None:
+            assert isinstance(parts,list) and 2<=len(parts)<=12, "audioParts must contain 2..12 URLs"
+            assert all(isinstance(a,str) and is_https(a) for a in parts), "all audio parts must be HTTPS"
         if bid=="nightmare":
             assert str(c.get("id","")).isdigit(), "existing book patch needs numeric chapter id"
             assert 1<=int(c["id"])<=10, "chapter must be 1..10"

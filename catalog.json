@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 4,
+  "revision": 5,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -379,6 +379,21 @@
               "text": "BBC News — Isdal Woman: The mystery death haunting Norway for 46 years (13 May 2017)، وتحقيقات NRK المرتبطة بإعادة فحص القضية، مع التفريق بين الروايات والتفسيرات. https://www.bbc.com/news/world-europe-39369429"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "nightmare",
+      "title": "حين صار الواقع كابوسًا",
+      "cover": null,
+      "chapters": [
+        {
+          "id": 10,
+          "audioParts": [
+            "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=66f8613254fe4261aaae36eb3f0fdca5.mp3",
+            "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=464444738e4d40c1b9c43cc1ad94ab95.mp3"
+          ],
+          "minutes": 10
         }
       ]
     }
