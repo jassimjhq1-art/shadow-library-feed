@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 11,
+  "revision": 12,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -656,8 +656,8 @@
           "title": "سفينة بنيت للخدمة لا للأسطورة",
           "category": "horror",
           "eyebrow": "الفصل 2 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=d6839fc3071b42bd81266e1853e157c8.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -677,8 +677,8 @@
           "title": "المهمة إلى مياه البرازيل",
           "category": "horror",
           "eyebrow": "الفصل 3 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=f60cfc78b1ac4b088c5962777322bbbb.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -698,8 +698,8 @@
           "title": "محطة باربادوس الأخيرة",
           "category": "horror",
           "eyebrow": "الفصل 4 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=d99286df9c144c5887e78e79d8a20bd6.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -719,8 +719,8 @@
           "title": "نداء الاستغاثة الذي لم يصل",
           "category": "horror",
           "eyebrow": "الفصل 5 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=04e44a8cbee749a8b80bb41612cb1666.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -740,8 +740,8 @@
           "title": "بحث في بحر لا يعيد شيئاً",
           "category": "horror",
           "eyebrow": "الفصل 6 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=d5bd90af63a948cfa816645b1ad22cc4.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -761,8 +761,8 @@
           "title": "هل أغرقتها غواصة؟",
           "category": "horror",
           "eyebrow": "الفصل 7 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=2be7166a3ad24beba72338d37f168a9e.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -782,8 +782,8 @@
           "title": "ماذا تفعل الحمولة الثقيلة؟",
           "category": "horror",
           "eyebrow": "الفصل 8 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=51d1ca116b254697a6f4970f362205c3.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -803,8 +803,8 @@
           "title": "مثلث برمودا جاء متأخراً",
           "category": "horror",
           "eyebrow": "الفصل 9 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=50c521d198984d4bbe3098b98d6e1ca0.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -824,8 +824,8 @@
           "title": "ثلاثمئة وستة أشخاص بعد مئة عام",
           "category": "horror",
           "eyebrow": "الفصل 10 من 10 · سايكلوبس",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=e29f45a87a60411f81efa8c7d9deaba6.mp3",
           "paragraphs": [
             {
               "t": "p",
