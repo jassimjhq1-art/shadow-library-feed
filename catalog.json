@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 10,
+  "revision": 11,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -373,8 +373,8 @@
           "title": "جزيرة على حافة المحيط",
           "category": "horror",
           "eyebrow": "الفصل 2 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=58f534f193c74149a43dff406d44f416.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -394,8 +394,8 @@
           "title": "ثلاثة أسماء في السجل",
           "category": "horror",
           "eyebrow": "الفصل 3 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=07b4a4c232e04cc6ae6b34c10072443e.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -415,8 +415,8 @@
           "title": "الليلة التي غاب فيها الضوء",
           "category": "horror",
           "eyebrow": "الفصل 4 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=82e0aa8937d946c18fded81451037a56.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -436,8 +436,8 @@
           "title": "ما بقي على لوح الطقس",
           "category": "horror",
           "eyebrow": "الفصل 5 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=7a3db39158cc49b2afa885a1349b3167.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -457,8 +457,8 @@
           "title": "هسبيروس تصل ولا أحد يرد",
           "category": "horror",
           "eyebrow": "الفصل 6 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=57e3ce85e41645efa831a883fcf4d9a3.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -478,8 +478,8 @@
           "title": "الرصيف الغربي يحكي",
           "category": "horror",
           "eyebrow": "الفصل 7 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=887ab140c1ce4ff083a982491717181b.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -499,8 +499,8 @@
           "title": "تقرير روبرت مويرهيد",
           "category": "horror",
           "eyebrow": "الفصل 8 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=5e5f76bce29f4cffa76c9bab03d3bfde.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -520,8 +520,8 @@
           "title": "أسطورة الطعام الذي لم يُمس",
           "category": "horror",
           "eyebrow": "الفصل 9 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=29f4d06d799640608978714a1c24a6f1.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -541,8 +541,8 @@
           "title": "المنارة بعد رحيل أصحابها",
           "category": "horror",
           "eyebrow": "الفصل 10 من 10 · جزر فلانان",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=fda6ed012f5b413284841e53bc18795d.mp3",
           "paragraphs": [
             {
               "t": "p",
