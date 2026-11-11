@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 9,
+  "revision": 10,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -90,8 +90,8 @@
           "title": "قبل أن تحمل اسم ماري سيليست",
           "category": "crime",
           "eyebrow": "الفصل 2 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=f15da8ab254c44978e0c7579b8236020.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -111,8 +111,8 @@
           "title": "القبطان الذي اصطحب عائلته",
           "category": "crime",
           "eyebrow": "الفصل 3 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=104775fd364f41dcb2bd3a3584ab4c27.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -132,8 +132,8 @@
           "title": "ألف وسبعمئة برميل تقريباً",
           "category": "crime",
           "eyebrow": "الفصل 4 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=b9e26d631be545e48fca97d584a80c09.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -153,8 +153,8 @@
           "title": "آخر موضع في سجل الرحلة",
           "category": "crime",
           "eyebrow": "الفصل 5 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=bd9d963602684b13ab2e1419018991ee.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -174,8 +174,8 @@
           "title": "دي غراتيا ترصد سفينة شاردة",
           "category": "crime",
           "eyebrow": "الفصل 6 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=5995499411734c5b855ec7c1a5651460.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -195,8 +195,8 @@
           "title": "آثار لا تفسر وحدها",
           "category": "crime",
           "eyebrow": "الفصل 7 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=ad9d394855a34706b5c8ac23a3d240fa.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -216,8 +216,8 @@
           "title": "جبل طارق: المحكمة والأسئلة",
           "category": "crime",
           "eyebrow": "الفصل 8 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=b1727f67321d4089a3b6def90282a2be.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -237,8 +237,8 @@
           "title": "بين الانفجار والخطأ الملاحي",
           "category": "crime",
           "eyebrow": "الفصل 9 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=b3a6a1fa6974433fa0c3b47469d196b4.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -258,8 +258,8 @@
           "title": "ماذا بقي من العشرة؟",
           "category": "crime",
           "eyebrow": "الفصل 10 من 10 · ماري سيليست",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=64fa5aff9335432ea9d7eec89bd716f9.mp3",
           "paragraphs": [
             {
               "t": "p",
