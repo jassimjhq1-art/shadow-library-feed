@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 3,
+  "revision": 4,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -99,8 +99,8 @@
           "title": "ثلاثة رجال وضوء لم يعد",
           "category": "horror",
           "eyebrow": "ملف 012 · جزر فلانان، اسكتلندا · 1900",
-          "minutes": null,
-          "audio": null,
+          "minutes": 5,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=8b17066baad44a9b9a6b10128ca09b83.mp3",
           "paragraphs": [
             {
               "t": "h3",
@@ -193,8 +193,8 @@
           "title": "سايكلوبس: النداء الذي لم يصل",
           "category": "horror",
           "eyebrow": "ملف 013 · سفينة سايكلوبس، الأطلسي · 1918",
-          "minutes": null,
-          "audio": null,
+          "minutes": 4,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=a50f1e47b40a4467a19166968f18d5c3.mp3",
           "paragraphs": [
             {
               "t": "h3",
@@ -287,8 +287,8 @@
           "title": "امرأة إيسدال: الاسم الغائب",
           "category": "horror",
           "eyebrow": "ملف 014 · بيرغن، النرويج · 1970",
-          "minutes": null,
-          "audio": null,
+          "minutes": 5,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=ed30ed8815a84e089101947ac4ea3875.mp3",
           "paragraphs": [
             {
               "t": "h3",
