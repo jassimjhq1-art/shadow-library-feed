@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "revision": 13,
+  "revision": 14,
   "books": [
     {
       "id": "ghost_sea_1872",
       "title": "الرحلة التي انتهت بلا ركّاب",
       "subtitle": "ملف 011 · ماري سيليست 1872 · عشرة فصول",
       "description": "تحقيق سردي موسّع من عشرة فصول في لغز السفينة ماري سيليست، يتتبع الأشخاص والأدلة وتحقيقات الإنقاذ ويكشف الفرق بين الوقائع والأساطير.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/mary-celeste.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/mary-celeste.webp",
       "chapters": [
         {
           "title": "ماري سيليست: السفينة التي اختفى طاقمها",
@@ -282,7 +282,7 @@
       "title": "المنارة التي صمتت فجأة",
       "subtitle": "ملف 012 · جزر فلانان 1900 · عشرة فصول",
       "description": "تحقيق سردي موسع في اختفاء حراس منارة فلانان، يتتبع شهادات الإنقاذ وأضرار البحر والفرق بين السجلات والأساطير.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/flannan-isles.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/flannan-isles.webp",
       "chapters": [
         {
           "title": "ثلاثة رجال وضوء لم يعد",
@@ -565,7 +565,7 @@
       "title": "السفينة التي ابتلعها الأطلسي",
       "subtitle": "ملف 013 · الأطلسي 1918 · عشرة فصول",
       "description": "رحلة تحقيق طويلة في اختفاء السفينة الأمريكية سايكلوبس و306 أشخاص، من مهمة نقل الخام إلى الأساطير التي لا تثبتها الأدلة.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/uss-cyclops.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/uss-cyclops.webp",
       "chapters": [
         {
           "title": "سايكلوبس: النداء الذي لم يصل",
@@ -848,7 +848,7 @@
       "title": "المرأة التي لم يكن لها اسم",
       "subtitle": "ملف 014 · النرويج 1970 · عشرة فصول",
       "description": "تحقيق سردي موسع من 10 فصول في لغز امرأة إيسدال، من الوادي والحقائب وأسماء الفنادق إلى الأدلة الطبية وأبحاث الهوية الحديثة.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/isdal-woman.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/isdal-woman.webp",
       "chapters": [
         {
           "title": "امرأة إيسدال: الاسم الغائب",
@@ -1141,7 +1141,7 @@
     {
       "id": "nightmare",
       "title": "حين صار الواقع كابوسًا",
-      "cover": null,
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/nightmare.webp",
       "chapters": [
         {
           "id": 10,
