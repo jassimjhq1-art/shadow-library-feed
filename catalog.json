@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 12,
+  "revision": 13,
   "books": [
     {
       "id": "ghost_sea_1872",
@@ -951,8 +951,8 @@
           "title": "الوادي الذي حفظ السر",
           "category": "horror",
           "eyebrow": "الفصل 2 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=59cd2f102e0d410eaec1e2f365d10f02.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -972,8 +972,8 @@
           "title": "الملصقات المقطوعة",
           "category": "horror",
           "eyebrow": "الفصل 3 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=22f2357b4d8845e8813e00461a02ed72.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -993,8 +993,8 @@
           "title": "حقيبتان في محطة بيرغن",
           "category": "horror",
           "eyebrow": "الفصل 4 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=770aeaafa40643f8a15bcedc2fccabfe.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1014,8 +1014,8 @@
           "title": "أسماء الفنادق المتعددة",
           "category": "horror",
           "eyebrow": "الفصل 5 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=df908008deee4dd9ad591bbe66ae8090.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1035,8 +1035,8 @@
           "title": "الورقة التي بدت شيفرة",
           "category": "horror",
           "eyebrow": "الفصل 6 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=e8582b9bd4624b978a22fc02366ca034.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1056,8 +1056,8 @@
           "title": "أيامها الأخيرة المعروفة",
           "category": "horror",
           "eyebrow": "الفصل 7 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=f9add0383f494ce5a2d92a9ffb57c815.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1077,8 +1077,8 @@
           "title": "التشريح وما لا يستطيع قوله",
           "category": "horror",
           "eyebrow": "الفصل 8 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=a25562f0b8b64edd8649b7aece019773.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1098,8 +1098,8 @@
           "title": "الحرب الباردة لا تشرح كل شيء",
           "category": "horror",
           "eyebrow": "الفصل 9 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=ba0f9a1b4b4f4944971b9091dc37e04a.mp3",
           "paragraphs": [
             {
               "t": "p",
@@ -1119,8 +1119,8 @@
           "title": "العلم الحديث يبحث عن اسم",
           "category": "horror",
           "eyebrow": "الفصل 10 من 10 · امرأة إيسدال",
-          "minutes": null,
-          "audio": null,
+          "minutes": 2,
+          "audio": "https://resource2.heygen.ai/text_to_speech/a4950e9c8cb74afaa0c44456a774cc8d/dc4ee8e4f0bc4099ad5be2a8431ca556/id=e863d6a38fe4439d979324c4d5da0401.mp3",
           "paragraphs": [
             {
               "t": "p",
