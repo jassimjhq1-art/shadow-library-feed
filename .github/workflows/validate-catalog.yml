@@ -4,7 +4,8 @@ on:
     branches: [main]
     paths:
       - catalog.json
-      - scripts/verify_feed.py
+      - app-version.json
+      - scripts/**
       - .github/workflows/validate-catalog.yml
   workflow_dispatch:
 permissions:
@@ -14,5 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate catalog JSON
+      - name: Validate content catalog
         run: python3 scripts/verify_feed.py
+      - name: Validate app version metadata
+        run: python3 scripts/verify_version.py
