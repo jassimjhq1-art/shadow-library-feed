@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "minSupportedVersionCode": 6,
-  "downloadUrl": "https://github.com/jassimjhq1-art/shadow-library-feed/releases/download/v1.5.0/app-release.apk",
-  "sha256": "03857a3603948cd374315927ad36d184845462003872e60e1bd70dc2b779003f",
-  "notes": "14 قصة مسموعة بصوت فؤاد: إكمال الفصل العاشر على جزأين، ثلاث قضايا تاريخية جديدة مع أغلفة، تحسين تشغيل الملفات الصوتية وتحديث الكتب، وروابط الخصوصية والدعم."
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "minSupportedVersionCode": 7,
+  "downloadUrl": "https://github.com/jassimjhq1-art/shadow-library-feed/releases/download/v1.6.0/app-release.apk",
+  "sha256": "f2b104690522da502633de48b6472ae5ac38926299c870c59996a3f9be100702",
+  "notes": "تصميم أهدأ وأكثر احترافية لمكتبة الظلال: ألوان مريحة، ترتيب أوضح للكتب والقصص والواجهة العربية، وتحسينات تجربة القراءة والاستماع مع الحفاظ على التحديثات والصوت بالخلفية."
 }
