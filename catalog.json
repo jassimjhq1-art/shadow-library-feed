@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "revision": 15,
+  "revision": 16,
   "books": [
     {
       "id": "hinterkaifeck_1922",
       "title": "ستة موتى خلف باب المزرعة",
       "subtitle": "الإصدار 001 · HINTERKAIFECK · 1922",
       "description": "هينتركايفك · ست ضحايا، أصوات غامضة، وجريمة بقيت بلا حل · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-001.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-001.svg?v=18",
       "legacyChapterId": 1,
       "chapters": []
     },
@@ -16,7 +16,7 @@
       "title": "الليلة التي لم ينجُ منها أحد",
       "subtitle": "الإصدار 002 · VILLISCA · 1912",
       "description": "فيليسكا · ثمانية أشخاص وجريمة هزت بلدة أمريكية · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-002.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-002.svg?v=18",
       "legacyChapterId": 2,
       "chapters": []
     },
@@ -25,7 +25,7 @@
       "title": "الخيمة التي قادت إلى المجهول",
       "subtitle": "الإصدار 003 · DYATLOV PASS · 1959",
       "description": "ممر دياتلوف · متسلقون وخيمة ممزقة وجبل قاسٍ · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-003.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-003.svg?v=18",
       "legacyChapterId": 3,
       "chapters": []
     },
@@ -34,7 +34,7 @@
       "title": "رسائل قاتل بلا وجه",
       "subtitle": "الإصدار 004 · ZODIAC · 1969",
       "description": "زودياك · رسائل غامضة ومطاردة قاتل لم تُحسم هويته · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-004.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-004.svg?v=18",
       "legacyChapterId": 4,
       "chapters": []
     },
@@ -43,7 +43,7 @@
       "title": "الرجل الذي ابتلعه الليل",
       "subtitle": "الإصدار 005 · D. B. COOPER · 1971",
       "description": "دي. بي. كوبر · حقيبة أموال وقافز اختفى في الليل · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-005.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-005.svg?v=18",
       "legacyChapterId": 5,
       "chapters": []
     },
@@ -52,7 +52,7 @@
       "title": "المتحف الذي سرقه الليل",
       "subtitle": "الإصدار 006 · GARDNER MUSEUM · 1990",
       "description": "متحف غاردنر · لوحات مفقودة ولصوص تنكروا كرجال شرطة · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-006.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-006.svg?v=18",
       "legacyChapterId": 6,
       "chapters": []
     },
@@ -61,7 +61,7 @@
       "title": "السرقة التي تحدّت المستحيل",
       "subtitle": "الإصدار 007 · ANTWERP · 2003",
       "description": "أنتويرب · خزنة ألماس شديدة الحراسة وسرقة تاريخية · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-007.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-007.svg?v=18",
       "legacyChapterId": 7,
       "chapters": []
     },
@@ -70,7 +70,7 @@
       "title": "القطار الذي اختفى منه المال",
       "subtitle": "الإصدار 008 · GREAT TRAIN ROBBERY · 1963",
       "description": "بريطانيا · القطار الذي توقف في طريقه إلى لندن · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-008.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-008.svg?v=18",
       "legacyChapterId": 8,
       "chapters": []
     },
@@ -79,7 +79,7 @@
       "title": "ثلاثة رجال خلف الأمواج",
       "subtitle": "الإصدار 009 · ALCATRAZ · 1962",
       "description": "ألكاتراز · رؤوس مزيفة وثلاثة هاربين بلا مصير مؤكد · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-009.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-009.svg?v=18",
       "legacyChapterId": 9,
       "chapters": []
     },
@@ -88,7 +88,7 @@
       "title": "ثمانية وثلاثون عند البوابة",
       "subtitle": "الإصدار 010 · MAZE PRISON · 1983",
       "description": "سجن ميز · هروب جماعي عنيف غيّر إجراءات الحراسة · ملف مستقل بصوت فؤاد.",
-      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-010.svg",
+      "cover": "https://raw.githubusercontent.com/jassimjhq1-art/shadow-library-feed/main/covers/release-010.svg?v=18",
       "legacyChapterId": 10,
       "chapters": []
     },
