@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="960" viewBox="0 0 640 960" role="img" aria-label="المنارة التي صمتت فجأة">
+<defs>
+  <radialGradient id="sky" cx="50%" cy="30%" r="80%"><stop stop-color="#263947"/><stop offset=".51" stop-color="#111b27"/><stop offset="1" stop-color="#060b11"/></radialGradient>
+  <linearGradient id="sea" x1="0" x2=".5" y1="0" y2="1"><stop stop-color="#29485a"/><stop offset=".6" stop-color="#0d1a26"/><stop offset="1" stop-color="#04080e"/></linearGradient>
+  <linearGradient id="bottom" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#05090f" stop-opacity="0"/><stop offset=".55" stop-color="#05090f" stop-opacity=".95"/><stop offset="1" stop-color="#05090f"/></linearGradient>
+  <filter id="mist"><feGaussianBlur stdDeviation="19"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+  <pattern id="stars" width="87" height="91" patternUnits="userSpaceOnUse"><circle cx="12" cy="15" r="1" fill="#d2d4c7" opacity=".3"/><circle cx="57" cy="70" r=".6" fill="#fcf4dc" opacity=".2"/></pattern>
+</defs>
+<rect width="640" height="960" fill="url(#sky)"/>
+<rect width="640" height="960" fill="url(#stars)"/>
+<path d="M0 178Q95 128 177 171Q301 104 411 159Q531 104 640 167L640 0L0 0Z" fill="#0b121d" opacity=".85"/>
+<path d="M0 260Q100 200 209 248T442 229T640 214" fill="none" stroke="#526372" stroke-width="15" opacity=".16" filter="url(#mist)"/>
+<path d="M0 524L158 477L269 494L376 462L516 493L640 470V670H0Z" fill="#101d25"/><path d="M115 554L215 400L305 424L378 380L527 544L640 548V633H0Z" fill="#172632"/>
+<path d="M0 570Q60 544 128 565T261 570T413 559T640 569V960H0Z" fill="url(#sea)"/>
+<path d="M0 601Q65 576 132 599T282 594T460 610T640 586" fill="none" stroke="#bdd5db" stroke-width="5" opacity=".32"/>
+<path d="M0 635Q86 610 154 632T334 631T534 623T640 638" fill="none" stroke="#c8d9d8" stroke-width="3" opacity=".2"/>
+<path d="M322 218L383 220L401 507L304 507Z" fill="#9a9690"/><path d="M320 210h66v35h-66z" fill="#d9cdb9"/><path d="M311 203h85l-16-25h-51z" fill="#292a2a"/><rect x="326" y="215" width="53" height="37" fill="#f0bd73"/>
+<ellipse cx="352" cy="232" rx="36" ry="30" fill="#e4ba6c" opacity=".55" filter="url(#glow)"/>
+<path d="M373 215L640 168L640 264L374 244Z" fill="#ecc882" opacity=".16"/>
+<path d="M323 250h57m-62 55h68m-73 54h76" stroke="#53616d" stroke-width="4"/>
+<rect x="317" y="438" width="83" height="74" fill="#101820"/><rect x="342" y="463" width="24" height="49" fill="#3a3b3a"/>
+<rect y="580" width="640" height="380" fill="url(#bottom)"/>
+<rect x="22" y="22" width="596" height="916" fill="none" stroke="#e9bb79" stroke-width="2" opacity=".73"/>
+<rect x="36" y="36" width="568" height="888" fill="none" stroke="#e9bb79" stroke-width=".7" opacity=".27"/>
+<path d="M40 81V42h41M559 42h40v39M40 881v37h41M559 918h40v-37" fill="none" stroke="#e9bb79" stroke-width="3" opacity=".9"/>
+<text x="320" y="84" text-anchor="middle" fill="#e9bb79" font-family="serif" font-size="26" letter-spacing="8">SHADOW LIBRARY</text>
+<line x1="209" y1="106" x2="431" y2="106" stroke="#e9bb79" opacity=".55"/>
+<text x="320" y="677" text-anchor="middle" fill="#e9bb79" font-family="sans-serif" font-size="18" letter-spacing="4">FILE 012</text>
+<text x="320" y="744" text-anchor="middle" direction="rtl" fill="#f4e4cd" font-family="Tahoma,'Noto Naskh Arabic',sans-serif" font-weight="bold" font-size="46" letter-spacing="0">المنارة التي</text><text x="320" y="798" text-anchor="middle" direction="rtl" fill="#f4e4cd" font-family="Tahoma,'Noto Naskh Arabic',sans-serif" font-weight="bold" font-size="46" letter-spacing="0">صمتت فجأة</text>
+<line x1="219" y1="853" x2="421" y2="853" stroke="#e9bb79" opacity=".7"/>
+<text x="320" y="891" text-anchor="middle" fill="#c6b8a7" font-family="sans-serif" font-size="18" letter-spacing="2">SCOTLAND • 1900</text>
+</svg>

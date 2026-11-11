@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="960" viewBox="0 0 640 960" role="img" aria-label="المرأة التي لم يكن لها اسم">
+<defs>
+  <radialGradient id="sky" cx="50%" cy="30%" r="80%"><stop stop-color="#263947"/><stop offset=".51" stop-color="#111b27"/><stop offset="1" stop-color="#060b11"/></radialGradient>
+  <linearGradient id="sea" x1="0" x2=".5" y1="0" y2="1"><stop stop-color="#29485a"/><stop offset=".6" stop-color="#0d1a26"/><stop offset="1" stop-color="#04080e"/></linearGradient>
+  <linearGradient id="bottom" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#05090f" stop-opacity="0"/><stop offset=".55" stop-color="#05090f" stop-opacity=".95"/><stop offset="1" stop-color="#05090f"/></linearGradient>
+  <filter id="mist"><feGaussianBlur stdDeviation="19"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+  <pattern id="stars" width="87" height="91" patternUnits="userSpaceOnUse"><circle cx="12" cy="15" r="1" fill="#d2d4c7" opacity=".3"/><circle cx="57" cy="70" r=".6" fill="#fcf4dc" opacity=".2"/></pattern>
+</defs>
+<rect width="640" height="960" fill="url(#sky)"/>
+<rect width="640" height="960" fill="url(#stars)"/>
+<path d="M0 178Q95 128 177 171Q301 104 411 159Q531 104 640 167L640 0L0 0Z" fill="#0b121d" opacity=".85"/>
+<path d="M0 260Q100 200 209 248T442 229T640 214" fill="none" stroke="#526372" stroke-width="15" opacity=".16" filter="url(#mist)"/>
+<path d="M0 518L95 310L218 475L366 273L526 501L640 344V960H0Z" fill="#1a2b36"/>
+<path d="M0 600L137 439L242 554L394 414L528 567L640 476V960H0Z" fill="#0d2029"/>
+<path d="M0 690Q250 629 640 683V960H0Z" fill="#09141a"/>
+<path d="M211 590Q313 527 377 611Q445 672 640 661" fill="none" stroke="#9caeae" stroke-width="45" opacity=".09" filter="url(#mist)"/>
+<path d="M252 576h161v108H252z" fill="#1c1e20" stroke="#8a7762" stroke-width="5" transform="rotate(-6 332 632)"/>
+<path d="M261 582h135l-14 105H271z" fill="#292c30" stroke="#78674f" stroke-width="4"/>
+<path d="M301 575v-18q22-23 52 0v20" fill="none" stroke="#b49d77" stroke-width="8"/>
+<path d="M323 598v55" stroke="#76624a" stroke-width="2"/><rect x="312" y="619" width="24" height="16" rx="2" fill="#b9945e"/>
+<path d="M65 520l-24 92m-2-31l-17-28m17 9l23-24M547 482l38 166m-20-90l21-29m-18 0l-25-15" stroke="#060e13" stroke-width="13"/>
+<rect y="580" width="640" height="380" fill="url(#bottom)"/>
+<rect x="22" y="22" width="596" height="916" fill="none" stroke="#bcae91" stroke-width="2" opacity=".73"/>
+<rect x="36" y="36" width="568" height="888" fill="none" stroke="#bcae91" stroke-width=".7" opacity=".27"/>
+<path d="M40 81V42h41M559 42h40v39M40 881v37h41M559 918h40v-37" fill="none" stroke="#bcae91" stroke-width="3" opacity=".9"/>
+<text x="320" y="84" text-anchor="middle" fill="#bcae91" font-family="serif" font-size="26" letter-spacing="8">SHADOW LIBRARY</text>
+<line x1="209" y1="106" x2="431" y2="106" stroke="#bcae91" opacity=".55"/>
+<text x="320" y="677" text-anchor="middle" fill="#bcae91" font-family="sans-serif" font-size="18" letter-spacing="4">FILE 014</text>
+<text x="320" y="744" text-anchor="middle" direction="rtl" fill="#f4e4cd" font-family="Tahoma,'Noto Naskh Arabic',sans-serif" font-weight="bold" font-size="46" letter-spacing="0">المرأة التي</text><text x="320" y="798" text-anchor="middle" direction="rtl" fill="#f4e4cd" font-family="Tahoma,'Noto Naskh Arabic',sans-serif" font-weight="bold" font-size="46" letter-spacing="0">لم يكن لها اسم</text>
+<line x1="219" y1="853" x2="421" y2="853" stroke="#bcae91" opacity=".7"/>
+<text x="320" y="891" text-anchor="middle" fill="#c6b8a7" font-family="sans-serif" font-size="18" letter-spacing="2">NORWAY • 1970</text>
+</svg>
