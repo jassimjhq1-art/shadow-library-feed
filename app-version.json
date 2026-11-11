@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "minSupportedVersionCode": 8,
-  "downloadUrl": "https://github.com/jassimjhq1-art/shadow-library-feed/releases/download/v1.7.0/app-release.apk",
-  "sha256": "8cb10dd0cfad1ee864b20cd376c7c47c6142e19f7e3ca08ac3883757edb82c3a",
-  "notes": "مكتبة الظلال بحُلّتها الجديدة: 14 إصدارًا مستقلاً، فصل القصص العشر الأصلية بأسماء وأغلفة خاصة، دمج كل حكاية من الملفات الأربعة الطويلة في قصة واحدة مع تشغيل متتابع لأجزائها الصوتية بصوت فؤاد، والمحافظة على الإصدارات والتحديثات الآمنة."
+  "versionCode": 9,
+  "versionName": "1.8.0",
+  "minSupportedVersionCode": 9,
+  "downloadUrl": "https://github.com/jassimjhq1-art/shadow-library-feed/releases/download/v1.8.0/app-release.apk",
+  "sha256": "36315bc4287c3026cdbe2fdbac5de9ad5c1e103d7b24e2e2540a5e8d356620d1",
+  "notes": "الهوية الاحترافية لمكتبة الظلال: عشرة أغلفة جديدة خاصة بالإصدارات 001–010، أيقونة تطبيق جديدة بكتاب وهلال ذهبي، تحسين واجهة رف الكتب والقراءة والتباين مع الحفاظ على روايات فؤاد والتحديثات الآمنة."
 }
